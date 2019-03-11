@@ -1,0 +1,8 @@
+<apex:page>
+
+  <iframe src="http://mybank.com/app/transferAmount?amount=1000&destinationAccount=..."/>
+
+  <script>
+  </script>
+
+</apex:page>  
